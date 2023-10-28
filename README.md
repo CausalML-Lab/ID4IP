@@ -1,2 +1,3 @@
 # ID4IP
-Code for ID4IP algorithm from the UAI'23 paper "Finding Invariant Predictors Efficiently via Causal Structure"
+The code is available in the following link:
+https://github.com/kenneth-lee-ch/id4ip
